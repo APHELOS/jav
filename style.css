@@ -11,7 +11,7 @@ div {
     border-radius: 10px;
 }
 .titulo {
-    opacity:0.7;
+    background-color:rgba(0, 0, 0, .7);
 }
 h1, h3 {
     font-family:Arial;
@@ -22,8 +22,9 @@ h1 {
     border: 4px dashed #20bcd5;
     padding: 10px;
 }
-.dat {
+/*.dat {
     padding:10px;
     margin:10px;
     border-radius:5px;
 }
+*/
