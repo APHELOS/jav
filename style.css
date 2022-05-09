@@ -12,6 +12,7 @@ div {
 }
 .titulo {
     background-color:rgba(0, 0, 0, .7);
+    padding:15px;
 }
 
 h1, h3 {
