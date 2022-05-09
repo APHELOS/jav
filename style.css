@@ -12,6 +12,12 @@ body {
 }
 h1, h3 {
     font-family:Arial;
+    color: orange;
+}
+h1 {
+    text-align:center;
+    border: 4px dashed #20bcd5;
+    padding: 10px;
 }
 .dat {
     padding:10px;
