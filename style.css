@@ -3,15 +3,15 @@ body {
     padding:0;
     background-color:#9032bb;
 }
-.titulo {
-    color:white;
-    opacity:0.7;
-}
+
 div {
     background-color: #fff;
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
+}
+.titulo {
+    opacity:0.7;
 }
 h1, h3 {
     font-family:Arial;
